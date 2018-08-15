@@ -24,3 +24,18 @@ document.querySelector("h1").style.color = "blue";
 // //Change the color of the last p tag to yellow.
 //
 // document.getElementById(last).style.color = "yellow";
+
+
+
+/*
+Question 1:
+	a) The getElements by ID/Classname/TagName is not called correctly.
+Questoin 2: 
+	a) The querySelectorAll isn't printing correctly. Your p tag should be lower case
+Question 3:
+	a) Don't forget which elements are arrays and which are not. You can't call the array elements without the index
+Question 4:
+	a) Not complete.
+
+From Kenn
+*/
